@@ -15,7 +15,10 @@ A simple web application that allows users to search for a city to get the curre
 - This weather dashboard is mobile copatible.
 
 ## Installation or tech used
-
+- HTML
+- JavaScript
+- Bootstrap
+- OpenWeather API
 
 ## Demo
 ![](assets/images/Weatherdashboard-demo.png)
